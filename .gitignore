@@ -1,0 +1,11 @@
+/.classpath
+
+/.project
+
+/.settings
+
+/target/JerseyRestExample-0.0.1-SNAPSHOT-exploded.war/META-INF
+
+/target/JerseyRestExample-0.0.1-SNAPSHOT-exploded.war/WEB-INF/classes/com/sreeni/jersey/rest/client
+
+/target
